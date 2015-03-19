@@ -19,7 +19,7 @@ meta:
 	ADDON_DESCRIPTION = Addon for unzipping encrypted zipfiles. This project uses zlib and minizip, copyrighted by Jean-loup Gailly, Mark Adler, Gilles Vollant and others.
 	ADDON_AUTHOR = Antoine Rousseau
 	ADDON_TAGS = "zip" "zlib" "crypt"
-	ADDON_URL = http://github.com/Ant1R/ofxZipPass
+	ADDON_URL = http://github.com/Ant1r/ofxZipPass
 
 common:
 
