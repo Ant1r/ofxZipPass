@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014 Antoine Rousseau <ant1rousseau1@gmail.com>
+ * Copyright (c) 2014 Antoine Rousseau <antoine@metalu.net>
  *
  * BSD Simplified License.
  * For information on usage and redistribution, and for a DISCLAIMER OF ALL
