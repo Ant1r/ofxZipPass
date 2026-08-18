@@ -1,6 +1,7 @@
 
 #include "ofxZipPass.h"
 #include "ofLog.h"
+#include <algorithm>
 
 using namespace std;
 
